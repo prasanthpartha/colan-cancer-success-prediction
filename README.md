@@ -1,1 +1,1 @@
-# colan-cancer-success-prediction
+# colancancersuccessprediction
